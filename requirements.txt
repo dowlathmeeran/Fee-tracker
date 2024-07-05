@@ -1,5 +1,5 @@
 mysql-connector-python
 pillow
 reportlab
-tkinter
+tkinter==3.7
 twilio
