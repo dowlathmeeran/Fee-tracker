@@ -6,6 +6,8 @@ WORKDIR /app
 
 # Copy requirements.txt (if you have one)
 COPY requirements.txt .
+
+
 # Install required Python libraries
 RUN pip install -r requirements.txt
 
